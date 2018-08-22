@@ -4,6 +4,7 @@ Simple C/S chatroom, mutlithreaded with appropriate timeout/disconnect sequences
 NOTE: I started these files using working examples provided by Retro Gamer on Stacked Overflow. The source and profile are below:
 
 Source: https://stackoverflow.com/questions/46185206/java-send-message-to-all-clients
+
 Profile: https://stackoverflow.com/users/4148092/retro-gamer
 
 From the provided working example for multithreaded Client/Server, I have made the following additions:
